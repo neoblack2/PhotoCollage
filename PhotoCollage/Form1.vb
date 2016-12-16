@@ -130,6 +130,7 @@ Public Class Form1
             PictureBox9.Image = Nothing
             Start = False
         End If
+
     End Sub
 
     'Виклик контекстного меню в заданого квадратику
